@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color:rgb(137, 209, 137);
+    color: black;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+#board {
+    background-color: rgb(123, 123, 219);
+    border-bottom: 20px solid pink;
+}
+
+button {
+    width: 160px;
+    height: 45px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+    background-color: rgb(113, 113, 187);
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+button:hover {
+    background-color: plum;
+    color: hsl(0, 0%, 3%);
+}
